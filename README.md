@@ -1,3 +1,13 @@
+---
+title: PDFY
+emoji: 📄
+colorFrom: red
+colorTo: gray
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
 # Facebook Post Images to PDF (FastAPI)
 
 A 100% free, open-source Python FastAPI backend that extracts high-resolution images from a public Facebook post using Playwright (headless Chromium) and converts them into a single PDF file (with optional chunking).
